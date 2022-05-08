@@ -1,0 +1,8 @@
+A1,Tea,True,150,10
+A2,Coffee,True,250,5
+A3,Coke,False,350,15
+A4,OJ,False,300,20
+B1,Fanta,False,350,10
+B2,Gatorade,False,500,5
+B3,Green_Tea,True,150,5
+B4,Sprite,False,350,7

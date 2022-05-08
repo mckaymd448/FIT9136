@@ -1,0 +1,4 @@
+Sugar,100
+Milk,100
+Honey,100
+Ginger,100
